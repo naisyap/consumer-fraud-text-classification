@@ -3,7 +3,7 @@
 **MSc Crime Science with Data Science project | University College London | 2026**
 
 ## Overview
-This project explored whether scam narratives could be classified into **phishing, romance and travel** categories using R-based text mining and supervised machine learning. The dissertation project report describes a manually coded, balanced dataset of **90 scam narratives (30 per class)**.
+This project explored whether scam narratives could be classified into **phishing, romance and travel** categories using R-based text mining and supervised machine learning. The original MSc Crime Science with Data Science project report describes a manually coded, balanced dataset of 90 scam narratives (30 per class).**.
 
 ## Methods
 - Standardised scam labels and text descriptions.
