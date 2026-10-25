@@ -1,0 +1,10 @@
+Prediction,Truth,Freq
+phishing,phishing,5
+romance,phishing,1
+travel,phishing,0
+phishing,romance,0
+romance,romance,6
+travel,romance,0
+phishing,travel,3
+romance,travel,0
+travel,travel,3

@@ -1,0 +1,5 @@
+model,.metric,.estimate
+Naive Bayes,accuracy,0.3333333333333333
+Naive Bayes,kap,0
+Logistic Regression,accuracy,0.7777777777777778
+Logistic Regression,kap,0.6666666666666667
